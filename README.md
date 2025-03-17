@@ -17,28 +17,63 @@ Here are some ideas to get you started:
 
 
 ### Projects:
-* [Depression Survey Analysis](https://github.com/elijahlopez94/depression_survey_analysis) - Identified key demographic and lifestyle factors that significantly contribute to depression risk, enabling medical professionals to enhance diagnostic accuracy and provide holistic care recommendations.
-    * 
-* [Trends in Suppplemental Education Program](https://github.com/elijahlopez94/trends_in_supplemental_education_program) - Developed and implemented targeted strategies to enhance lead conversion and customer retention for supplemental education services.​
-    * Maintained data privacy and ethics while merging internal lead, account, and assessment databases for public view.
-    * Analyzed membership types and student performance to improve program effectiveness and identify upsells.
-    * Engineered grade metrics to evaluate performance at key milestones, providing actionable insights for improvement.
-    * Visualized lead/account trends over time, uncovering opportunities to boost enrollments and reduce cancellations.
-* [Stock Market Prediction with RNN](https://github.com/elijahlopez94/stock_market_prediction_with_rnn) - Developed advanced neural network architectures to predict future stock prices of Invesco QQQ ETF to enhance investment strategies for retail investors.
-    * Curated a dataset of 6,037 trading days, integrating stock and economic data from Yahoo Finance and FRED.
-    * Identified temporal trends in stock performance including 6.29% Compound Annual Growth Rate (CAGR), best month for investment (October) and the worst month for investment (February).
-    * Refined LSTM model architecture through iterative trials, optimizing hyperparameters like timesteps, layers, and regularizers to improve prediction accuracy.
-* [Predicting Student Outcomes with Machine Learning](https://github.com/elijahlopez94/predicting_student_outcomes_with_machine_learning) - Predictive model for student outcomes, used by Student Services and Advisors for proactive intervention.
-    * Visualized the impact of class time, displacement, scholarship status, and credited units on student outcomes.
-    * Encoded categorical features using target and one-hot methods to optimize data for machine learning models.
-    * Evaluated multiple models (KNN, Logistic Regression, etc.), selecting XGBoost based on top baseline metrics.
-    * Optimized XGBoost model performance using hyperparameter tuning (GridSearchCV), achieving 78% training and 76% testing accuracy.
+#### [Depression Survey Analysis](https://github.com/elijahlopez94/depression_survey_analysis)
+Data Scientist
+
+Identified key demographic and lifestyle factors contributing to depression risk, enabling medical professionals to improve diagnostic accuracy and provide holistic care recommendations.
+
+* Analyzed survey responses from 2,500+ adults to uncover statistically significant depression risk factors.
+* Preprocessed data by handling missing values, encoding categorical variables, and applying feature engineering.
+* Conducted statistical tests to compare at-risk and non-risk groups, highlighting key behavioral differences.
+* Developed a logistic regression model with 97% recall, prioritizing false negative reduction for early detection.
+
+`Skills/Tools/Technologies`: Python, Pandas, NumPy, Scikit-learn, Data Analysis, Data Visualization, Statistical Analysis, Machine Learning (Logistic Regression), Classification, Recall
+
+#### [Trends in Supplemental Education Program](https://github.com/elijahlopez94/trends_in_supplemental_education_program)
+Data Analyst
+
+Developed data-driven strategies to enhance lead conversion, customer retention, and student performance in supplemental education services.
+
+* Ensured data privacy while merging internal lead, account, and assessment datasets for public analysis.
+* Analyzed membership trends and student performance to optimize program effectiveness and identify upsell opportunities.
+* Engineered custom grade metrics to evaluate student progress at key milestones, providing actionable insights for educators.
+* Visualized lead and account trends over time, uncovering opportunities to increase enrollments and reduce cancellations.
+
+`Skills/Tools/Technologies`: Python, Pandas, Data Privacy, Data Analysis, Data Visualization, Business Intelligence, Decision Making, Communication
+
+#### [Stock Market Prediction with RNN](https://github.com/elijahlopez94/stock_market_prediction_with_rnn)
+Data Scientist
+
+Developed a deep learning model using LSTM networks to predict future stock prices of Invesco QQQ ETF, supporting investment strategy optimization.
+* Curated a dataset spanning 6,037 trading days, integrating stock and economic indicators from Yahoo Finance and FRED.
+* Analyzed temporal stock trends, identifying a 6.29% Compound Annual Growth Rate (CAGR) and key seasonal investment patterns (best month: October, worst month: February).
+* Optimized LSTM model architecture through iterative hyperparameter tuning (timesteps, layers, regularization), improving prediction accuracy.
+
+`Skills/Tools/Technologies`: Python, Pandas, NumPy, TensorFlow/Keras, Data Visualization, Time Series Analysis, Machine Learning, Deep Learning (LSTM, RNN), Hyperparameter Tuning
+
+#### [Predicting Student Outcomes with Machine Learning](https://github.com/elijahlopez94/predicting_student_outcomes_with_machine_learning)
+Data Scientist
+
+Developed a predictive model to classify student outcomes, supporting Student Services and Advisors in proactive intervention strategies.
+
+* Visualized key factors influencing student success, including class time, displacement, scholarships, and credited units.
+* Engineered features using target encoding and one-hot encoding to optimize machine learning model performance.
+* Evaluated multiple models (KNN, Logistic Regression, etc.) and selected XGBoost based on superior baseline metrics.
+* Optimized XGBoost model via GridSearchCV hyperparameter tuning, achieving 78% training and 76% testing accuracy.
+
+`Skills/Tools/Technologies`: Python, Pandas, NumPy, Scikit-learn, XGBoost, Data Visualization, Feature Engineering, Model Selection, Hyperparameter Tuning
+
 #### [Box Office Statistical Analysis](https://github.com/elijahlopez94/box_office_statistical_analysis)
 Data Analyst
-Recommended strategies to maximize sales through genre selection, budget, and release timing for a new movie studio.
 
-* Merged IMDb and The Numbers data using SQL to create a comprehensive dataset for analysis.
-* Analyzed key success factors, including ratings by genre, ROI by budget, and revenue by release month.
-* Applied statistical tests (ANOVA, Tukey's HSD) to identify significant drivers of box office performance.
+Developed data-driven strategies to optimize box office revenue through genre selection, budgeting, and release timing for a new movie studio.
 
-Skills: 
+* Merged IMDb and The Numbers datasets using SQL, creating a comprehensive dataset for analysis.
+* Analyzed key success factors, including genre-based ratings, budget ROI, and revenue trends by release month.
+* Applied statistical tests (ANOVA, Tukey’s HSD) to identify significant drivers of box office performance.
+
+`Skills/Tools/Technologies`: Python, SQL, Pandas, Data Analysis, Statistical Analysis, Data Visualization, Predictive Analytics
+
+| Name     | Description   | Key Skills, Tools, and Technologies|
+|----------|---------------|------------------------------------|
+| Project 1| Description 1 | Python, SQL, Pandas, Data Analysis |
