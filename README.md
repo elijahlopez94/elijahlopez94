@@ -28,7 +28,9 @@ Here are some ideas to get you started:
 
 
 ## About Me
+Data Analyst with a proven track record of driving business outcomes in marketing, sales, service delivery, employee performance, and customer retention. I take a goal-oriented approach to problem-solving, using data visualization to uncover insights and communicate key trends. My curiosity, attention to detail, and commitment to continuous learning enable me to optimize processes and deliver meaningful results. I specialize in Python, SQL, and machine learning, applying these skills to real-world challenges through data-driven projects.
 
+My path to data science has been shaped by a diverse set of experiences, each contributing to my analytical mindset and problem-solving abilities. The table below highlights key milestones in my journey and the skills I’ve gained along the way.
 
 | Timeframe | Event | Skills Gained |
 |-----------|-------|---------------|
@@ -36,3 +38,7 @@ Here are some ideas to get you started:
 | 2017 - 2020 | Teaching & Education Experience | Strengthened data interpretation, goal-oriented curriculum design, instructional leadership, and classroom management. Developed skills in tracking student performance, analyzing learning outcomes, and applying data-driven insights to improve instruction. |
 | 2020 - 2024 | Management & Business Operations | Gained experience in business analytics, key performance metrics (conversion rates, retention), and operational efficiency. Applied data-driven strategies to optimize revenue, staffing, and customer retention. Improved stakeholder communication, decision-making, and team leadership. |
 | 2024 - 2025 | Data Science Certification & Projects | Built expertise in Python, SQL, data visualization, statistical analysis, machine learning, and predictive modeling. Applied data-driven problem-solving to real-world challenges in business, education, and healthcare. |
+
+## Contact
+* E-mail: elijahlopez94@gmail.com
+* LinkedIn: [linkedin.com/in/elijahlopez94](https://www.linkedin.com/in/elijahlopez94/)
