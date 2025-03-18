@@ -1,5 +1,3 @@
-# Welcome to My Portfolio! 👋
-
 <!--
 **elijahlopez94/elijahlopez94** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,6 +12,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
+# Welcome to My Portfolio! 👋
+This portfolio showcases projects where I've applied Python, SQL, statistical analysis, and machine learning to real-world challenges, demonstrating how data-driven insights can optimize operations, enhance decision-making, and drive value for any organization.
 
 
 ## Projects
@@ -35,10 +37,12 @@ My path to data science has been shaped by a diverse set of experiences, each co
 | Timeframe | Event | Skills Gained |
 |-----------|-------|---------------|
 | 2013 - 2017 | Bachelor of Science in Biology | Developed scientific thinking and experimental design skills, including hypothesis testing, data collection, statistical analysis, and result validation. Strengthened problem-solving, attention to detail, and communication, essential for interpreting and presenting complex data. |
-| 2017 - 2020 | Teaching & Education Experience | Strengthened data interpretation, goal-oriented curriculum design, instructional leadership, and classroom management. Developed skills in tracking student performance, analyzing learning outcomes, and applying data-driven insights to improve instruction. |
-| 2020 - 2024 | Management & Business Operations | Gained experience in business analytics, key performance metrics (conversion rates, retention), and operational efficiency. Applied data-driven strategies to optimize revenue, staffing, and customer retention. Improved stakeholder communication, decision-making, and team leadership. |
+| 2017 - 2020 | Master of Education & Teaching Experience | Strengthened data interpretation, goal-oriented curriculum design, instructional leadership, and classroom management. Developed skills in tracking student performance, analyzing learning outcomes, and applying data-driven insights to improve instruction. |
+| 2020 - 2024 | Business Operations & Leadership | Gained experience in business analytics, key performance metrics (conversion rates, retention), and operational efficiency. Applied data-driven strategies to optimize revenue, staffing, and customer retention. Improved stakeholder communication, decision-making, and team leadership. |
 | 2024 - 2025 | Data Science Certification & Projects | Built expertise in Python, SQL, data visualization, statistical analysis, machine learning, and predictive modeling. Applied data-driven problem-solving to real-world challenges in business, education, and healthcare. |
 
-## Contact
+
+## Let's Connect
+I’m always open to discussing data-driven problem-solving, analytics, and new opportunities. Feel free to reach out!
+* LinkedIn: [linkedin.com/in/elijahlopez94](https://www.linkedin.com/in/elijahlopez94)
 * E-mail: elijahlopez94@gmail.com
-* LinkedIn: [linkedin.com/in/elijahlopez94](https://www.linkedin.com/in/elijahlopez94/)
